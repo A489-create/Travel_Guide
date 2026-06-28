@@ -305,6 +305,8 @@ Travel_Guide/
 
 ---
 
-## 📄 License
+## 📄 版权声明
 
-MIT
+Copyright © 2026 A489-create. All rights reserved.
+
+未经版权所有者书面许可，不得以任何形式复制、分发、修改或使用本项目的全部或部分代码。
