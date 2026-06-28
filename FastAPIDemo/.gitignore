@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 环境变量与密钥
+.env
+*.env.local
+
+# 数据库
+*.db
+*.sqlite3
+
+# Alembic versions 保留，但忽略 pyc
+alembic/versions/__pycache__/
+
+# 日志
+*.log
+
+# 编译
+dist/
+build/
